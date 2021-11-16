@@ -50,11 +50,11 @@ li{
     position: relative;
 }
 #title-line{
- /* 基準位置からの距離 */
- position: absolute; top: 50%; left: 50%;
- /* 中心補正 */
- transform: translate(-50%,-50%);
- text-align: center;
+    /* 基準位置からの距離 */
+    position: absolute; top: 50%; left: 50%;
+    /* 中心補正 */
+    transform: translate(-50%,-50%);
+    text-align: center;
 }
 #title{
     color: white;
